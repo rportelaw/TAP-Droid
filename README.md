@@ -5,4 +5,7 @@ Requirements: <br>
    <br> <br>
 Usage: <br>
   -Launch start.py via terminal <br>
-  -Et viola!
+  -Connect your phone <br
+  -Select first option and start recording script <br
+  -Select second option and give name of the file you want to create <br>
+  -Select third option and specify the name of the script
