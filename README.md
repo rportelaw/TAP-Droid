@@ -6,6 +6,6 @@ Requirements: <br>
 Usage: <br>
   -Launch start.py via terminal <br>
   -Connect your phone <br
-  -Select first option and start recording script <br
-  -Select second option and give name of the file you want to create <br>
-  -Select third option and specify the name of the script
+  -Choose first option and start recording script <br>
+  -Choose second option and give name of the file you want to create <br>
+  -Choose third option and specify the name of the script
