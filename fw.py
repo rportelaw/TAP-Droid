@@ -30,7 +30,7 @@ while True:
     elif choice == 2:
             print ("Enter a file name for script you want to record:")
             filename = input()
-            cmd = "python3 convert.py > "+filename+".sh"
+            cmd = "python convert.py > "+filename+".sh"
             print ("Now magic hapens!")
             os.system(cmd)
             os.remove("myinput.sh")
